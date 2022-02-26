@@ -1,7 +1,8 @@
 # toDoList
-A toDoList app using node.js and mongoDB
+A toDoList :memo:
+:pencil: app using node.js and mongoDB
 --
-### Checkout the app :[click here](https://infinite-beyond-39461.herokuapp.com/)
+### Checkout the app : [click here](https://infinite-beyond-39461.herokuapp.com/)
 #### How to use:-
 - To add items click on + button.
 - To remove items click on checkbox.
